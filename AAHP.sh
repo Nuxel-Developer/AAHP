@@ -57,7 +57,7 @@ function cd_folder() {
 function help(){
     echo -e "Usage: AAHP.sh --init [Options]\nOptions:"
     echo ""
-    echo -e "   -na, --noanswer : Use to start MakePkg automatically witout asking for confirmation"
+    echo -e "   -na, --noanswer : Use to start MakePkg automatically without asking for confirmation"
     echo ""
 }
 
