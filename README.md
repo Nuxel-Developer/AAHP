@@ -1,6 +1,5 @@
 # AAHP
 AAHP (Arch Aur Help Pkg) - An simple Aur Helper written in Shell Script.
-
 <br>
 # Installation
 <code>git clone https://github.com/Nuxel-Developer/AAHP</code>
