@@ -14,6 +14,7 @@ depends=(
     'pacman'
     'git'
     'tar'
+    'jshon'
 )
 
 package(){
